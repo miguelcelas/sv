@@ -1,0 +1,183 @@
+[
+  {
+    "name": "SEI Bahia",
+    "state": "BA",
+    "region": "Bahia",
+    "url": "https://sei.ba.gov.br/",
+    "rss": null,
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "Sudene",
+    "state": "NE",
+    "region": "Nordeste",
+    "url": "https://www.gov.br/sudene/",
+    "rss": "https://www.gov.br/sudene/pt-br/assuntos/noticias/RSS",
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "INMET",
+    "state": "BR",
+    "region": "Brasil",
+    "url": "https://portal.inmet.gov.br/",
+    "rss": null,
+    "type": "official",
+    "enabled": true
+  },
+  {
+    "name": "IRPAA",
+    "state": "BA",
+    "region": "Semiárido baiano",
+    "url": "https://irpaa.org/",
+    "rss": "https://irpaa.org/feed/",
+    "type": "civil_society",
+    "enabled": true
+  },
+  {
+    "name": "UVA",
+    "state": "CE",
+    "region": "Ceará",
+    "url": "https://www.uvanet.br/",
+    "rss": null,
+    "type": "university",
+    "enabled": true
+  },
+  {
+    "name": "Marco Zero Conteúdo",
+    "state": "PE",
+    "region": "Pernambuco",
+    "url": "https://marcozero.org/",
+    "rss": "https://marcozero.org/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Retruco",
+    "state": "PE",
+    "region": "Pernambuco",
+    "url": "https://retruco.com.br/",
+    "rss": null,
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Coletivo Acauã",
+    "state": "PE",
+    "region": "Sertão e Agreste de Pernambuco",
+    "url": "https://coletivoacaua.com.br/",
+    "rss": "https://coletivoacaua.com.br/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Central Popular de Comunicação",
+    "state": "PE",
+    "region": "Sertão de Pernambuco",
+    "url": null,
+    "rss": null,
+    "type": "social_only",
+    "enabled": false,
+    "notes": "Sem site próprio estável. Entrada prevista para coleta manual ou redes sociais."
+  },
+  {
+    "name": "Agência Eco Nordeste",
+    "state": "CE",
+    "region": "Nordeste",
+    "url": "https://agenciaeconordeste.com.br/",
+    "rss": "https://agenciaeconordeste.com.br/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Agência Saiba Mais",
+    "state": "RN",
+    "region": "Rio Grande do Norte",
+    "url": "https://saibamais.jor.br/",
+    "rss": "https://saibamais.jor.br/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Agência Tatu",
+    "state": "AL",
+    "region": "Alagoas/Nordeste",
+    "url": "https://www.agenciatatu.com.br/",
+    "rss": "https://www.agenciatatu.com.br/feed/",
+    "type": "data_journalism",
+    "enabled": true
+  },
+  {
+    "name": "Mídia Caeté",
+    "state": "AL",
+    "region": "Alagoas",
+    "url": "https://midiacaete.com.br/",
+    "rss": null,
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Mangue Jornalismo",
+    "state": "SE",
+    "region": "Sergipe",
+    "url": "https://manguejornalismo.org/",
+    "rss": "https://manguejornalismo.org/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Conquista Repórter",
+    "state": "BA",
+    "region": "Bahia",
+    "url": "https://conquistareporter.com.br/",
+    "rss": "https://conquistareporter.com.br/feed/",
+    "type": "independent_media",
+    "enabled": true
+  },
+  {
+    "name": "Diário do Sertão",
+    "state": "PB",
+    "region": "Sertão da Paraíba",
+    "url": "https://www.diariodosertao.com.br/",
+    "rss": "https://www.diariodosertao.com.br/feed",
+    "type": "regional_media",
+    "enabled": true
+  },
+  {
+    "name": "TV Quilombo / Rádio Quilombo",
+    "state": "MA",
+    "region": "Maranhão",
+    "url": "https://tvquilombo.com.br/",
+    "rss": null,
+    "type": "community_media",
+    "enabled": true
+  },
+  {
+    "name": "Rede Cajueira",
+    "state": "NE",
+    "region": "Nordeste",
+    "url": "https://redecajueira.com.br/",
+    "rss": null,
+    "type": "aggregator",
+    "enabled": true
+  },
+  {
+    "name": "Mapa Cajueira",
+    "state": "NE",
+    "region": "Nordeste",
+    "url": "https://mapacajueira.com/",
+    "rss": null,
+    "type": "aggregator",
+    "enabled": true
+  },
+  {
+    "name": "Mapa da Mídia Independente e Popular de PE",
+    "state": "PE",
+    "region": "Pernambuco",
+    "url": "https://mapadamidiape.marcozero.org/",
+    "rss": null,
+    "type": "media_map",
+    "enabled": true
+  }
+]

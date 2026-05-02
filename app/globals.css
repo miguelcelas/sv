@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #1A1A1A;
+  background: #F7EED8;
+}
+
+body {
+  font-family: pacaembu, Georgia, serif;
+  background: radial-gradient(circle at top left, #f9e6bd, #f7eed8 42%, #efe1bd);
+}
+
+h1, h2, h3, .font-titulo {
+  font-family: field-gothic, Impact, sans-serif;
+  letter-spacing: -0.02em;
+}
